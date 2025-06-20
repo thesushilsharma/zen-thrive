@@ -10,3 +10,15 @@ A comprehensive wellness app combining fitness tracking, meditation/habit buildi
 - 📰 News Reader - Offline-first articles, curated wellness content
 - 📱 Cross-platform - iOS and Android with shared codebase
 - 🔄 Offline Sync - Works without internet, syncs when connected
+
+## Known Issues
+
+none
+
+## Contributing
+
+To contribute to this project, please submit any issues or pull requests on the GitHub repository.
+
+## License
+
+This project is licensed under the MIT License.  See the [LICENSE](LICENSE) file for details
